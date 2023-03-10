@@ -1,0 +1,13 @@
+2022-11-29 13:09:11,683	Sequential Batch Processor	INFO	Config file loaded and logger created.
+2022-11-29 13:09:11,691	Sequential Batch Processor	INFO	18 scenarios skipped.
+2022-11-29 13:09:11,692	Sequential Batch Processor	INFO	ScenarioLoader Mode <DEFAULT>
+2022-11-29 13:09:11,692	Sequential Batch Processor	INFO	Run on all scenarios, except the skipped scenarios
+2022-11-29 13:09:11,694	Sequential Batch Processor	INFO	Number of scenarios: 500
+2022-11-29 13:09:11,713	Sequential Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2022-11-29 13:09:11,713	Sequential Batch Processor	INFO	Motion planner: student
+2022-11-29 13:09:11,714	Sequential Batch Processor	DEBUG	Start processing [ARG_Carcarana-11_1_T-1        ]
+2022-11-29 13:09:15,581	Sequential Batch Processor	DEBUG	Start processing [ARG_Carcarana-13_1_T-1        ]
+2022-11-29 13:09:16,942	Sequential Batch Processor	DEBUG	Start processing [ARG_Carcarana-2_3_T-1         ]
+2022-11-29 13:09:20,100	Sequential Batch Processor	DEBUG	Start processing [ARG_Carcarana-3_3_T-1         ]
+2022-11-29 13:09:32,089	Sequential Batch Processor	DEBUG	Start processing [ARG_Carcarana-5_2_T-1         ]
+2022-11-29 13:09:36,852	Sequential Batch Processor	DEBUG	Start processing [ARG_Carcarana-7_1_T-1         ]

@@ -1,0 +1,15 @@
+commonroad-io>=2022.3
+commonroad-drivability-checker>=2022.2.1
+commonroad-route-planner>=2022.3
+tqdm~=4.64
+networkx>=2.4
+ipywidgets~=7.5.1
+ipython-autotime~=0.1
+matplotlib~=3.3.2
+numpy~=1.21.6
+ipython~=7.18.1
+pyyaml~=5.3.1
+imageio~=2.9.0
+shapely>=1.6.4.post2
+setuptools>=42.0.1
+triangle>=20200424

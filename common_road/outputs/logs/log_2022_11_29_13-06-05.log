@@ -1,0 +1,1015 @@
+2022-11-29 13:06:05,864	Batch Processor	INFO	Config file loaded and logger created.
+2022-11-29 13:06:05,869	Batch Processor	INFO	18 scenarios skipped.
+2022-11-29 13:06:05,869	Batch Processor	INFO	ScenarioLoader Mode <DEFAULT>
+2022-11-29 13:06:05,870	Batch Processor	INFO	Run on all scenarios, except the skipped scenarios
+2022-11-29 13:06:05,870	Batch Processor	INFO	Number of scenarios: 500
+2022-11-29 13:06:05,888	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2022-11-29 13:06:05,910	Batch Processor	INFO	Motion planner: student
+2022-11-29 13:06:05,940	Batch Processor	INFO	Number of parallel processes: 6
+2022-11-29 13:09:10,669	Batch Processor	INFO	==============================        Search Results        ==============================
+2022-11-29 13:09:10,679	Batch Processor	INFO	[ARG_Carcarana-11_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,681	Batch Processor	INFO	[ARG_Carcarana-13_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,682	Batch Processor	INFO	[ARG_Carcarana-2_3_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:10,684	Batch Processor	INFO	[ARG_Carcarana-3_3_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:10,686	Batch Processor	INFO	[ARG_Carcarana-5_2_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:10,688	Batch Processor	INFO	[ARG_Carcarana-7_1_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:10,688	Batch Processor	INFO	[ARG_Carcarana-8_4_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:10,689	Batch Processor	INFO	[ARG_Carcarana-9_2_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:10,690	Batch Processor	INFO	[BEL_Aarschot-11_1_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:10,693	Batch Processor	INFO	[BEL_Aarschot-1_2_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,695	Batch Processor	INFO	[BEL_Aarschot-3_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,696	Batch Processor	INFO	[BEL_Aarschot-5_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,697	Batch Processor	INFO	[BEL_Aarschot-6_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,698	Batch Processor	INFO	[BEL_Beringen-1_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,698	Batch Processor	INFO	[BEL_Beringen-8_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,699	Batch Processor	INFO	[BEL_Nivelles-10_1_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:10,700	Batch Processor	INFO	[BEL_Nivelles-16_2_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:10,701	Batch Processor	INFO	[BEL_Nivelles-18_2_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:10,702	Batch Processor	INFO	[BEL_Nivelles-19_1_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:10,703	Batch Processor	INFO	[BEL_Nivelles-1_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,704	Batch Processor	INFO	[BEL_Nivelles-20_1_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:10,705	Batch Processor	INFO	[BEL_Nivelles-3_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,707	Batch Processor	INFO	[BEL_Nivelles-4_2_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,708	Batch Processor	INFO	[BEL_Nivelles-9_2_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,709	Batch Processor	INFO	[BEL_Putte-10_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:10,710	Batch Processor	INFO	[BEL_Putte-11_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:10,711	Batch Processor	INFO	[BEL_Putte-14_3_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:10,712	Batch Processor	INFO	[BEL_Putte-17_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:10,714	Batch Processor	INFO	[BEL_Putte-2_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:10,715	Batch Processor	INFO	[BEL_Putte-3_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:10,716	Batch Processor	INFO	[BEL_Putte-4_2_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:10,717	Batch Processor	INFO	[BEL_Putte-6_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:10,718	Batch Processor	INFO	[BEL_Wervik-1_4_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:10,719	Batch Processor	INFO	[BEL_Wervik-2_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:10,721	Batch Processor	INFO	[BEL_Wervik-4_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:10,722	Batch Processor	INFO	[BEL_Zaventem-1_2_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,723	Batch Processor	INFO	[BEL_Zaventem-3_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,724	Batch Processor	INFO	[BEL_Zaventem-4_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,725	Batch Processor	INFO	[BEL_Zaventem-5_3_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,726	Batch Processor	INFO	[BEL_Zwevegem-2_3_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,727	Batch Processor	INFO	[BEL_Zwevegem-3_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,728	Batch Processor	INFO	[BEL_Zwevegem-5_2_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,729	Batch Processor	INFO	[BEL_Zwevegem-7_2_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,730	Batch Processor	INFO	[BEL_Zwevegem-8_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,731	Batch Processor	INFO	[BEL_Zwevegem-8_4_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,732	Batch Processor	INFO	[DEU_Backnang-1_2_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,732	Batch Processor	INFO	[DEU_Backnang-4_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,734	Batch Processor	INFO	[DEU_Backnang-5_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,735	Batch Processor	INFO	[DEU_Backnang-6_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,735	Batch Processor	INFO	[DEU_Backnang-9_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,736	Batch Processor	INFO	[DEU_BadEssen-3_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,737	Batch Processor	INFO	[DEU_BadEssen-4_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:10,738	Batch Processor	INFO	[DEU_BadWaldsee-1_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,739	Batch Processor	INFO	[DEU_BadWaldsee-4_2_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,741	Batch Processor	INFO	[DEU_BadWaldsee-4_5_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,742	Batch Processor	INFO	[DEU_Bilderstoeckchen-2_3_T-1  ]	<EXCEPTION>	
+2022-11-29 13:09:10,743	Batch Processor	INFO	[DEU_Bilderstoeckchen-4_1_T-1  ]	<EXCEPTION>	
+2022-11-29 13:09:10,744	Batch Processor	INFO	[DEU_Flensburg-10_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,745	Batch Processor	INFO	[DEU_Flensburg-11_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,746	Batch Processor	INFO	[DEU_Flensburg-12_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,747	Batch Processor	INFO	[DEU_Flensburg-13_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,747	Batch Processor	INFO	[DEU_Flensburg-14_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,748	Batch Processor	INFO	[DEU_Flensburg-15_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,749	Batch Processor	INFO	[DEU_Flensburg-16_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,750	Batch Processor	INFO	[DEU_Flensburg-17_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,751	Batch Processor	INFO	[DEU_Flensburg-18_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,752	Batch Processor	INFO	[DEU_Flensburg-19_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,752	Batch Processor	INFO	[DEU_Flensburg-20_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,753	Batch Processor	INFO	[DEU_Flensburg-21_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,754	Batch Processor	INFO	[DEU_Flensburg-22_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,755	Batch Processor	INFO	[DEU_Flensburg-23_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,756	Batch Processor	INFO	[DEU_Flensburg-24_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,757	Batch Processor	INFO	[DEU_Flensburg-25_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,759	Batch Processor	INFO	[DEU_Flensburg-26_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,759	Batch Processor	INFO	[DEU_Flensburg-27_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,760	Batch Processor	INFO	[DEU_Flensburg-28_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,761	Batch Processor	INFO	[DEU_Flensburg-29_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,762	Batch Processor	INFO	[DEU_Flensburg-2_1_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:10,763	Batch Processor	INFO	[DEU_Flensburg-30_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,764	Batch Processor	INFO	[DEU_Flensburg-31_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,764	Batch Processor	INFO	[DEU_Flensburg-32_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,766	Batch Processor	INFO	[DEU_Flensburg-33_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,767	Batch Processor	INFO	[DEU_Flensburg-34_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,768	Batch Processor	INFO	[DEU_Flensburg-35_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,768	Batch Processor	INFO	[DEU_Flensburg-36_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,769	Batch Processor	INFO	[DEU_Flensburg-37_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,770	Batch Processor	INFO	[DEU_Flensburg-38_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,771	Batch Processor	INFO	[DEU_Flensburg-39_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,771	Batch Processor	INFO	[DEU_Flensburg-40_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,772	Batch Processor	INFO	[DEU_Flensburg-41_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,773	Batch Processor	INFO	[DEU_Flensburg-42_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,774	Batch Processor	INFO	[DEU_Flensburg-43_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,775	Batch Processor	INFO	[DEU_Flensburg-44_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,775	Batch Processor	INFO	[DEU_Flensburg-45_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,776	Batch Processor	INFO	[DEU_Flensburg-46_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,777	Batch Processor	INFO	[DEU_Flensburg-47_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,777	Batch Processor	INFO	[DEU_Flensburg-48_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,778	Batch Processor	INFO	[DEU_Flensburg-49_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,779	Batch Processor	INFO	[DEU_Flensburg-50_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,780	Batch Processor	INFO	[DEU_Flensburg-51_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,780	Batch Processor	INFO	[DEU_Flensburg-52_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,781	Batch Processor	INFO	[DEU_Flensburg-53_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,782	Batch Processor	INFO	[DEU_Flensburg-54_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,783	Batch Processor	INFO	[DEU_Flensburg-55_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,784	Batch Processor	INFO	[DEU_Flensburg-56_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,784	Batch Processor	INFO	[DEU_Flensburg-57_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,785	Batch Processor	INFO	[DEU_Flensburg-58_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,786	Batch Processor	INFO	[DEU_Flensburg-59_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,786	Batch Processor	INFO	[DEU_Flensburg-60_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,787	Batch Processor	INFO	[DEU_Flensburg-61_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,788	Batch Processor	INFO	[DEU_Flensburg-62_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,789	Batch Processor	INFO	[DEU_Flensburg-63_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,790	Batch Processor	INFO	[DEU_Flensburg-64_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,791	Batch Processor	INFO	[DEU_Flensburg-65_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,791	Batch Processor	INFO	[DEU_Flensburg-66_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,792	Batch Processor	INFO	[DEU_Flensburg-67_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,793	Batch Processor	INFO	[DEU_Flensburg-68_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,794	Batch Processor	INFO	[DEU_Flensburg-69_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,794	Batch Processor	INFO	[DEU_Flensburg-70_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,795	Batch Processor	INFO	[DEU_Flensburg-71_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,796	Batch Processor	INFO	[DEU_Flensburg-72_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,796	Batch Processor	INFO	[DEU_Flensburg-73_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,797	Batch Processor	INFO	[DEU_Flensburg-74_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,798	Batch Processor	INFO	[DEU_Flensburg-75_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,799	Batch Processor	INFO	[DEU_Flensburg-76_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,800	Batch Processor	INFO	[DEU_Flensburg-77_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,800	Batch Processor	INFO	[DEU_Flensburg-78_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,801	Batch Processor	INFO	[DEU_Flensburg-79_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,802	Batch Processor	INFO	[DEU_Flensburg-80_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,802	Batch Processor	INFO	[DEU_Flensburg-81_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,803	Batch Processor	INFO	[DEU_Flensburg-82_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,804	Batch Processor	INFO	[DEU_Flensburg-83_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,805	Batch Processor	INFO	[DEU_Flensburg-84_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,806	Batch Processor	INFO	[DEU_Flensburg-85_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,807	Batch Processor	INFO	[DEU_Flensburg-86_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,808	Batch Processor	INFO	[DEU_Flensburg-87_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,808	Batch Processor	INFO	[DEU_Flensburg-88_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,809	Batch Processor	INFO	[DEU_Flensburg-89_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,810	Batch Processor	INFO	[DEU_Flensburg-90_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,813	Batch Processor	INFO	[DEU_Flensburg-91_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,820	Batch Processor	INFO	[DEU_Flensburg-92_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,823	Batch Processor	INFO	[DEU_Flensburg-93_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,831	Batch Processor	INFO	[DEU_Flensburg-94_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,837	Batch Processor	INFO	[DEU_Flensburg-95_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,840	Batch Processor	INFO	[DEU_Flensburg-96_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,845	Batch Processor	INFO	[DEU_Flensburg-97_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,849	Batch Processor	INFO	[DEU_Flensburg-98_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,855	Batch Processor	INFO	[DEU_Flensburg-99_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,859	Batch Processor	INFO	[DEU_Guetersloh-10_4_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,863	Batch Processor	INFO	[DEU_Guetersloh-10_5_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,867	Batch Processor	INFO	[DEU_Guetersloh-11_3_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,868	Batch Processor	INFO	[DEU_Guetersloh-12_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,869	Batch Processor	INFO	[DEU_Guetersloh-14_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,873	Batch Processor	INFO	[DEU_Guetersloh-15_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,877	Batch Processor	INFO	[DEU_Guetersloh-16_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,880	Batch Processor	INFO	[DEU_Guetersloh-16_5_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,883	Batch Processor	INFO	[DEU_Guetersloh-17_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,884	Batch Processor	INFO	[DEU_Guetersloh-18_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,885	Batch Processor	INFO	[DEU_Guetersloh-19_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,886	Batch Processor	INFO	[DEU_Guetersloh-20_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,889	Batch Processor	INFO	[DEU_Guetersloh-20_3_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,893	Batch Processor	INFO	[DEU_Guetersloh-21_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,895	Batch Processor	INFO	[DEU_Guetersloh-24_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,898	Batch Processor	INFO	[DEU_Guetersloh-24_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,899	Batch Processor	INFO	[DEU_Guetersloh-24_3_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,900	Batch Processor	INFO	[DEU_Guetersloh-25_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,901	Batch Processor	INFO	[DEU_Guetersloh-25_4_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,902	Batch Processor	INFO	[DEU_Guetersloh-27_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,904	Batch Processor	INFO	[DEU_Guetersloh-30_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,906	Batch Processor	INFO	[DEU_Guetersloh-31_4_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,910	Batch Processor	INFO	[DEU_Guetersloh-32_3_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,912	Batch Processor	INFO	[DEU_Guetersloh-33_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,914	Batch Processor	INFO	[DEU_Guetersloh-34_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,916	Batch Processor	INFO	[DEU_Guetersloh-36_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,920	Batch Processor	INFO	[DEU_Guetersloh-39_3_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,923	Batch Processor	INFO	[DEU_Guetersloh-39_5_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,928	Batch Processor	INFO	[DEU_Guetersloh-40_4_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,932	Batch Processor	INFO	[DEU_Guetersloh-40_5_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,933	Batch Processor	INFO	[DEU_Guetersloh-41_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,935	Batch Processor	INFO	[DEU_Guetersloh-42_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,937	Batch Processor	INFO	[DEU_Guetersloh-4_5_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,938	Batch Processor	INFO	[DEU_Guetersloh-50_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,940	Batch Processor	INFO	[DEU_Guetersloh-54_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,943	Batch Processor	INFO	[DEU_Guetersloh-55_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,945	Batch Processor	INFO	[DEU_Guetersloh-55_3_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,949	Batch Processor	INFO	[DEU_Guetersloh-65_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:10,953	Batch Processor	INFO	[DEU_Guetersloh-6_3_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,974	Batch Processor	INFO	[DEU_Guetersloh-7_2_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,979	Batch Processor	INFO	[DEU_Guetersloh-8_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:10,981	Batch Processor	INFO	[DEU_Hennigsdorf-11_1_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:10,985	Batch Processor	INFO	[DEU_Hennigsdorf-12_1_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:10,986	Batch Processor	INFO	[DEU_Hennigsdorf-13_2_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:10,994	Batch Processor	INFO	[DEU_Hennigsdorf-14_3_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:10,997	Batch Processor	INFO	[DEU_Hennigsdorf-15_3_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:10,999	Batch Processor	INFO	[DEU_Hennigsdorf-18_2_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:11,003	Batch Processor	INFO	[DEU_Hennigsdorf-3_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,007	Batch Processor	INFO	[DEU_Hennigsdorf-3_5_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,010	Batch Processor	INFO	[DEU_Hennigsdorf-5_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,012	Batch Processor	INFO	[DEU_Hennigsdorf-5_4_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,015	Batch Processor	INFO	[DEU_Hennigsdorf-7_3_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,018	Batch Processor	INFO	[DEU_Hennigsdorf-9_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,019	Batch Processor	INFO	[DEU_Ibbenbueren-10_2_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:11,022	Batch Processor	INFO	[DEU_Ibbenbueren-11_2_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:11,026	Batch Processor	INFO	[DEU_Ibbenbueren-12_1_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:11,028	Batch Processor	INFO	[DEU_Ibbenbueren-13_3_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:11,030	Batch Processor	INFO	[DEU_Ibbenbueren-14_1_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:11,031	Batch Processor	INFO	[DEU_Ibbenbueren-15_4_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:11,035	Batch Processor	INFO	[DEU_Ibbenbueren-16_3_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:11,037	Batch Processor	INFO	[DEU_Ibbenbueren-16_5_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:11,040	Batch Processor	INFO	[DEU_Ibbenbueren-2_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,043	Batch Processor	INFO	[DEU_Ibbenbueren-3_3_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,045	Batch Processor	INFO	[DEU_Ibbenbueren-4_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,048	Batch Processor	INFO	[DEU_Ibbenbueren-6_3_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,050	Batch Processor	INFO	[DEU_Ibbenbueren-6_4_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,051	Batch Processor	INFO	[DEU_Ibbenbueren-7_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,054	Batch Processor	INFO	[DEU_Ibbenbueren-9_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,056	Batch Processor	INFO	[DEU_Lohmar-10_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,059	Batch Processor	INFO	[DEU_Lohmar-11_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,062	Batch Processor	INFO	[DEU_Lohmar-12_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,064	Batch Processor	INFO	[DEU_Lohmar-13_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,067	Batch Processor	INFO	[DEU_Lohmar-14_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,069	Batch Processor	INFO	[DEU_Lohmar-15_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,071	Batch Processor	INFO	[DEU_Lohmar-16_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,072	Batch Processor	INFO	[DEU_Lohmar-17_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,074	Batch Processor	INFO	[DEU_Lohmar-18_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,075	Batch Processor	INFO	[DEU_Lohmar-19_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,077	Batch Processor	INFO	[DEU_Lohmar-20_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,081	Batch Processor	INFO	[DEU_Lohmar-21_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,083	Batch Processor	INFO	[DEU_Lohmar-22_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,084	Batch Processor	INFO	[DEU_Lohmar-23_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,085	Batch Processor	INFO	[DEU_Lohmar-24_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,089	Batch Processor	INFO	[DEU_Lohmar-25_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,091	Batch Processor	INFO	[DEU_Lohmar-26_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,093	Batch Processor	INFO	[DEU_Lohmar-27_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,095	Batch Processor	INFO	[DEU_Lohmar-28_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,097	Batch Processor	INFO	[DEU_Lohmar-29_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,100	Batch Processor	INFO	[DEU_Lohmar-30_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,102	Batch Processor	INFO	[DEU_Lohmar-31_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,104	Batch Processor	INFO	[DEU_Lohmar-32_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,108	Batch Processor	INFO	[DEU_Lohmar-33_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,109	Batch Processor	INFO	[DEU_Lohmar-34_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,111	Batch Processor	INFO	[DEU_Lohmar-35_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,112	Batch Processor	INFO	[DEU_Lohmar-36_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,113	Batch Processor	INFO	[DEU_Lohmar-37_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,114	Batch Processor	INFO	[DEU_Lohmar-38_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,115	Batch Processor	INFO	[DEU_Lohmar-39_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,117	Batch Processor	INFO	[DEU_Lohmar-40_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,119	Batch Processor	INFO	[DEU_Lohmar-41_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,121	Batch Processor	INFO	[DEU_Lohmar-42_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,122	Batch Processor	INFO	[DEU_Lohmar-43_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,123	Batch Processor	INFO	[DEU_Lohmar-44_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,125	Batch Processor	INFO	[DEU_Lohmar-45_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,127	Batch Processor	INFO	[DEU_Lohmar-46_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,129	Batch Processor	INFO	[DEU_Lohmar-47_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,131	Batch Processor	INFO	[DEU_Lohmar-48_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,132	Batch Processor	INFO	[DEU_Lohmar-49_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,134	Batch Processor	INFO	[DEU_Lohmar-50_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,135	Batch Processor	INFO	[DEU_Lohmar-51_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,137	Batch Processor	INFO	[DEU_Lohmar-52_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,138	Batch Processor	INFO	[DEU_Lohmar-53_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,140	Batch Processor	INFO	[DEU_Lohmar-54_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,141	Batch Processor	INFO	[DEU_Lohmar-55_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,143	Batch Processor	INFO	[DEU_Lohmar-56_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,146	Batch Processor	INFO	[DEU_Lohmar-57_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,148	Batch Processor	INFO	[DEU_Lohmar-58_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,150	Batch Processor	INFO	[DEU_Lohmar-59_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,152	Batch Processor	INFO	[DEU_Lohmar-60_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,158	Batch Processor	INFO	[DEU_Lohmar-61_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,160	Batch Processor	INFO	[DEU_Lohmar-62_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,161	Batch Processor	INFO	[DEU_Lohmar-63_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,162	Batch Processor	INFO	[DEU_Lohmar-64_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,163	Batch Processor	INFO	[DEU_Lohmar-65_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,164	Batch Processor	INFO	[DEU_Lohmar-66_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,165	Batch Processor	INFO	[DEU_Lohmar-67_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,166	Batch Processor	INFO	[DEU_Lohmar-68_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,166	Batch Processor	INFO	[DEU_Lohmar-69_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,167	Batch Processor	INFO	[DEU_Lohmar-70_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,168	Batch Processor	INFO	[DEU_Lohmar-8_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,169	Batch Processor	INFO	[DEU_Lohmar-9_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,170	Batch Processor	INFO	[DEU_Luckenwalde-1_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,171	Batch Processor	INFO	[DEU_Meckenheim-1_4_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:11,172	Batch Processor	INFO	[DEU_Meckenheim-3_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:11,172	Batch Processor	INFO	[DEU_Meckenheim-5_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:11,174	Batch Processor	INFO	[DEU_Meckenheim-8_3_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:11,174	Batch Processor	INFO	[DEU_Meckenheim-8_5_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:11,175	Batch Processor	INFO	[DEU_Moabit-1_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,176	Batch Processor	INFO	[DEU_Moabit-4_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,177	Batch Processor	INFO	[DEU_Moabit-5_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,177	Batch Processor	INFO	[DEU_Moabit-6_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,178	Batch Processor	INFO	[DEU_Moelln-10_3_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,179	Batch Processor	INFO	[DEU_Moelln-11_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,180	Batch Processor	INFO	[DEU_Moelln-12_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,181	Batch Processor	INFO	[DEU_Moelln-2_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,182	Batch Processor	INFO	[DEU_Moelln-4_3_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,183	Batch Processor	INFO	[DEU_Moelln-6_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,184	Batch Processor	INFO	[DEU_Moelln-7_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,185	Batch Processor	INFO	[DEU_Moelln-9_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,186	Batch Processor	INFO	[DEU_Muehlhausen-11_1_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:11,187	Batch Processor	INFO	[DEU_Muehlhausen-14_3_T-1      ]	<EXCEPTION>	
+2022-11-29 13:09:11,188	Batch Processor	INFO	[DEU_Muehlhausen-1_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,188	Batch Processor	INFO	[DEU_Muehlhausen-1_3_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,189	Batch Processor	INFO	[DEU_Muehlhausen-2_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,190	Batch Processor	INFO	[DEU_Muehlhausen-4_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,191	Batch Processor	INFO	[DEU_Muehlhausen-5_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,192	Batch Processor	INFO	[DEU_Muehlhausen-6_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,193	Batch Processor	INFO	[DEU_Muehlhausen-7_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,195	Batch Processor	INFO	[DEU_Reutlingen-1_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:11,196	Batch Processor	INFO	[DEU_Reutlingen-2_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:11,197	Batch Processor	INFO	[DEU_Reutlingen-3_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:11,198	Batch Processor	INFO	[DEU_Reutlingen-4_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:11,200	Batch Processor	INFO	[DEU_Reutlingen-5_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:11,201	Batch Processor	INFO	[DEU_Reutlingen-6_1_T-1        ]	<EXCEPTION>	
+2022-11-29 13:09:11,202	Batch Processor	INFO	[DEU_Rheinbach-1_4_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:11,203	Batch Processor	INFO	[DEU_Rheinbach-5_3_T-1         ]	<EXCEPTION>	
+2022-11-29 13:09:11,204	Batch Processor	INFO	[DEU_Speyer-2_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,206	Batch Processor	INFO	[DEU_Speyer-2_4_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,207	Batch Processor	INFO	[DEU_Speyer-5_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,208	Batch Processor	INFO	[ESP_Almansa-1_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,209	Batch Processor	INFO	[ESP_Almansa-2_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,210	Batch Processor	INFO	[ESP_Almansa-6_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,211	Batch Processor	INFO	[ESP_Berga-10_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,211	Batch Processor	INFO	[ESP_Berga-4_4_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,212	Batch Processor	INFO	[ESP_Berga-6_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,213	Batch Processor	INFO	[ESP_Berga-9_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,213	Batch Processor	INFO	[ESP_Cambre-1_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,214	Batch Processor	INFO	[ESP_Cambre-2_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,215	Batch Processor	INFO	[ESP_Cambre-3_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,216	Batch Processor	INFO	[ESP_Ceuta-10_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,216	Batch Processor	INFO	[ESP_Ceuta-11_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,217	Batch Processor	INFO	[ESP_Ceuta-15_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,217	Batch Processor	INFO	[ESP_Ceuta-1_2_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,218	Batch Processor	INFO	[ESP_Ceuta-2_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,219	Batch Processor	INFO	[ESP_Ceuta-3_2_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,219	Batch Processor	INFO	[ESP_Ceuta-4_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,220	Batch Processor	INFO	[ESP_Ceuta-5_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,220	Batch Processor	INFO	[ESP_Ceuta-7_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,221	Batch Processor	INFO	[ESP_Ceuta-8_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,221	Batch Processor	INFO	[ESP_Inca-3_2_T-1              ]	<EXCEPTION>	
+2022-11-29 13:09:11,222	Batch Processor	INFO	[ESP_Inca-7_1_T-1              ]	<EXCEPTION>	
+2022-11-29 13:09:11,223	Batch Processor	INFO	[ESP_Monzon-2_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,223	Batch Processor	INFO	[ESP_Monzon-3_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,224	Batch Processor	INFO	[ESP_Monzon-5_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,224	Batch Processor	INFO	[ESP_Monzon-6_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,225	Batch Processor	INFO	[ESP_Monzon-7_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,225	Batch Processor	INFO	[ESP_Monzon-7_3_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,225	Batch Processor	INFO	[ESP_Monzon-9_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,226	Batch Processor	INFO	[ESP_PriegodeCordoba-2_3_T-1   ]	<EXCEPTION>	
+2022-11-29 13:09:11,226	Batch Processor	INFO	[ESP_PriegodeCordoba-3_1_T-1   ]	<EXCEPTION>	
+2022-11-29 13:09:11,227	Batch Processor	INFO	[ESP_PriegodeCordoba-6_1_T-1   ]	<EXCEPTION>	
+2022-11-29 13:09:11,227	Batch Processor	INFO	[ESP_Requena-6_2_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,228	Batch Processor	INFO	[ESP_SantBoideLlobregat-14_1_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,228	Batch Processor	INFO	[ESP_SantBoideLlobregat-14_4_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,229	Batch Processor	INFO	[ESP_SantBoideLlobregat-18_2_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,229	Batch Processor	INFO	[ESP_SantBoideLlobregat-19_1_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,230	Batch Processor	INFO	[ESP_SantBoideLlobregat-22_3_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,230	Batch Processor	INFO	[ESP_SantBoideLlobregat-23_2_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,231	Batch Processor	INFO	[ESP_SantBoideLlobregat-24_1_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,231	Batch Processor	INFO	[ESP_SantBoideLlobregat-3_1_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,232	Batch Processor	INFO	[ESP_SantBoideLlobregat-4_1_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,232	Batch Processor	INFO	[ESP_SantBoideLlobregat-6_2_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,233	Batch Processor	INFO	[ESP_SantBoideLlobregat-8_1_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,233	Batch Processor	INFO	[ESP_SantBoideLlobregat-8_5_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,234	Batch Processor	INFO	[ESP_Toledo-10_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,234	Batch Processor	INFO	[ESP_Toledo-10_2_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,236	Batch Processor	INFO	[ESP_Toledo-11_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,236	Batch Processor	INFO	[ESP_Toledo-11_5_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,237	Batch Processor	INFO	[ESP_Toledo-22_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,238	Batch Processor	INFO	[ESP_Toledo-23_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,239	Batch Processor	INFO	[ESP_Toledo-5_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,249	Batch Processor	INFO	[ESP_Toledo-6_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,251	Batch Processor	INFO	[ESP_Toledo-8_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,254	Batch Processor	INFO	[ESP_Toledo-9_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,255	Batch Processor	INFO	[FRA_Anglet-1_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,257	Batch Processor	INFO	[FRA_Anglet-2_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,258	Batch Processor	INFO	[FRA_Anglet-3_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,259	Batch Processor	INFO	[FRA_Miramas-1_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,260	Batch Processor	INFO	[FRA_Miramas-2_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,260	Batch Processor	INFO	[FRA_Miramas-3_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,261	Batch Processor	INFO	[FRA_Miramas-5_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,261	Batch Processor	INFO	[FRA_Miramas-9_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,262	Batch Processor	INFO	[FRA_MoissyCramayel-1_1_T-1    ]	<EXCEPTION>	
+2022-11-29 13:09:11,262	Batch Processor	INFO	[FRA_MoissyCramayel-2_1_T-1    ]	<EXCEPTION>	
+2022-11-29 13:09:11,263	Batch Processor	INFO	[FRA_MoissyCramayel-4_1_T-1    ]	<EXCEPTION>	
+2022-11-29 13:09:11,264	Batch Processor	INFO	[FRA_Sete-1_1_T-1              ]	<EXCEPTION>	
+2022-11-29 13:09:11,264	Batch Processor	INFO	[GRC_Perama-1_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,265	Batch Processor	INFO	[GRC_Perama-2_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,265	Batch Processor	INFO	[GRC_Perama-3_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,266	Batch Processor	INFO	[GRC_Perama-4_3_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,266	Batch Processor	INFO	[GRC_Perama-7_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,266	Batch Processor	INFO	[HRV_Pula-10_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,267	Batch Processor	INFO	[HRV_Pula-12_3_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,267	Batch Processor	INFO	[HRV_Pula-13_2_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,268	Batch Processor	INFO	[HRV_Pula-15_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,268	Batch Processor	INFO	[HRV_Pula-18_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,268	Batch Processor	INFO	[HRV_Pula-19_2_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,270	Batch Processor	INFO	[HRV_Pula-21_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,271	Batch Processor	INFO	[HRV_Pula-22_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,271	Batch Processor	INFO	[HRV_Pula-23_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,272	Batch Processor	INFO	[HRV_Pula-24_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,272	Batch Processor	INFO	[HRV_Pula-25_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,273	Batch Processor	INFO	[HRV_Pula-27_2_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,273	Batch Processor	INFO	[HRV_Pula-29_3_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,274	Batch Processor	INFO	[HRV_Pula-31_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,274	Batch Processor	INFO	[HRV_Pula-32_2_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,275	Batch Processor	INFO	[HRV_Pula-33_2_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,275	Batch Processor	INFO	[HRV_Pula-5_2_T-1              ]	<EXCEPTION>	
+2022-11-29 13:09:11,276	Batch Processor	INFO	[HRV_Pula-5_3_T-1              ]	<EXCEPTION>	
+2022-11-29 13:09:11,276	Batch Processor	INFO	[HRV_Pula-6_2_T-1              ]	<EXCEPTION>	
+2022-11-29 13:09:11,276	Batch Processor	INFO	[HRV_Pula-7_2_T-1              ]	<EXCEPTION>	
+2022-11-29 13:09:11,277	Batch Processor	INFO	[HRV_Pula-8_3_T-1              ]	<EXCEPTION>	
+2022-11-29 13:09:11,277	Batch Processor	INFO	[HRV_Pula-9_2_T-1              ]	<EXCEPTION>	
+2022-11-29 13:09:11,278	Batch Processor	INFO	[HRV_Pula-9_4_T-1              ]	<EXCEPTION>	
+2022-11-29 13:09:11,279	Batch Processor	INFO	[ITA_CarpiCentro-1_3_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,281	Batch Processor	INFO	[ITA_CarpiCentro-2_4_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,281	Batch Processor	INFO	[ITA_CarpiCentro-3_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,283	Batch Processor	INFO	[ITA_CarpiCentro-5_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,284	Batch Processor	INFO	[ITA_CarpiCentro-6_2_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,284	Batch Processor	INFO	[ITA_CarpiCentro-7_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,285	Batch Processor	INFO	[ITA_CarpiCentro-8_3_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,286	Batch Processor	INFO	[ITA_Empoli-10_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,286	Batch Processor	INFO	[ITA_Empoli-18_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,286	Batch Processor	INFO	[ITA_Empoli-2_4_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,287	Batch Processor	INFO	[ITA_Empoli-2_5_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,288	Batch Processor	INFO	[ITA_Empoli-3_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,288	Batch Processor	INFO	[ITA_Empoli-4_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,289	Batch Processor	INFO	[ITA_Empoli-7_3_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,289	Batch Processor	INFO	[ITA_Empoli-8_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,290	Batch Processor	INFO	[ITA_Foggia-10_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,291	Batch Processor	INFO	[ITA_Foggia-11_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,291	Batch Processor	INFO	[ITA_Foggia-12_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,292	Batch Processor	INFO	[ITA_Foggia-13_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,292	Batch Processor	INFO	[ITA_Foggia-19_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,293	Batch Processor	INFO	[ITA_Foggia-1_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,293	Batch Processor	INFO	[ITA_Foggia-3_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,295	Batch Processor	INFO	[ITA_Foggia-4_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,296	Batch Processor	INFO	[ITA_Foggia-5_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,297	Batch Processor	INFO	[ITA_Foggia-6_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,298	Batch Processor	INFO	[ITA_Foggia-7_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,300	Batch Processor	INFO	[ITA_SanGiorgioaCremano-2_1_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,302	Batch Processor	INFO	[ITA_SanGiorgioaCremano-3_1_T-1]	<EXCEPTION>	
+2022-11-29 13:09:11,303	Batch Processor	INFO	[ITA_Scicli-2_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,304	Batch Processor	INFO	[ITA_Segrate-1_2_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,305	Batch Processor	INFO	[ITA_Segrate-2_3_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,307	Batch Processor	INFO	[ITA_Siderno-10_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:11,308	Batch Processor	INFO	[ITA_Siderno-2_4_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,309	Batch Processor	INFO	[ITA_Siderno-3_2_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,310	Batch Processor	INFO	[ITA_Siderno-4_3_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,310	Batch Processor	INFO	[ITA_Siderno-4_4_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,311	Batch Processor	INFO	[ITA_Siderno-5_4_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,311	Batch Processor	INFO	[ITA_Siderno-8_4_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,312	Batch Processor	INFO	[ITA_Siderno-8_5_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,313	Batch Processor	INFO	[PRI_Barceloneta-2_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,314	Batch Processor	INFO	[PRI_Barceloneta-3_1_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,316	Batch Processor	INFO	[PRI_Barceloneta-4_3_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,316	Batch Processor	INFO	[PRI_Barceloneta-4_5_T-1       ]	<EXCEPTION>	
+2022-11-29 13:09:11,317	Batch Processor	INFO	[RUS_Bicycle-10_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:11,317	Batch Processor	INFO	[RUS_Bicycle-11_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:11,318	Batch Processor	INFO	[RUS_Bicycle-12_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:11,318	Batch Processor	INFO	[RUS_Bicycle-13_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:11,319	Batch Processor	INFO	[RUS_Bicycle-14_1_T-1          ]	<EXCEPTION>	
+2022-11-29 13:09:11,319	Batch Processor	INFO	[RUS_Bicycle-1_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,320	Batch Processor	INFO	[RUS_Bicycle-2_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,320	Batch Processor	INFO	[RUS_Bicycle-3_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,321	Batch Processor	INFO	[RUS_Bicycle-4_2_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,321	Batch Processor	INFO	[RUS_Bicycle-5_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,322	Batch Processor	INFO	[RUS_Bicycle-6_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,322	Batch Processor	INFO	[RUS_Bicycle-7_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,322	Batch Processor	INFO	[RUS_Bicycle-8_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,324	Batch Processor	INFO	[RUS_Bicycle-9_1_T-1           ]	<EXCEPTION>	
+2022-11-29 13:09:11,328	Batch Processor	INFO	[USA_Lanker-1_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,330	Batch Processor	INFO	[USA_Peach-1_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,332	Batch Processor	INFO	[USA_Peach-2_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,333	Batch Processor	INFO	[USA_Peach-3_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,335	Batch Processor	INFO	[USA_US101-10_4_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,336	Batch Processor	INFO	[USA_US101-11_4_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,337	Batch Processor	INFO	[USA_US101-12_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,339	Batch Processor	INFO	[USA_US101-13_4_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,340	Batch Processor	INFO	[USA_US101-14_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,343	Batch Processor	INFO	[USA_US101-15_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,345	Batch Processor	INFO	[USA_US101-16_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,348	Batch Processor	INFO	[USA_US101-17_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,350	Batch Processor	INFO	[USA_US101-18_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,351	Batch Processor	INFO	[USA_US101-20_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,354	Batch Processor	INFO	[USA_US101-21_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,356	Batch Processor	INFO	[USA_US101-22_4_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,357	Batch Processor	INFO	[USA_US101-23_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,360	Batch Processor	INFO	[USA_US101-24_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,361	Batch Processor	INFO	[USA_US101-25_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,363	Batch Processor	INFO	[USA_US101-26_2_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,365	Batch Processor	INFO	[USA_US101-27_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,367	Batch Processor	INFO	[USA_US101-28_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,369	Batch Processor	INFO	[USA_US101-29_1_T-1            ]	<EXCEPTION>	
+2022-11-29 13:09:11,370	Batch Processor	INFO	[USA_US101-3_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,373	Batch Processor	INFO	[USA_US101-3_2_S-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,374	Batch Processor	INFO	[USA_US101-4_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,375	Batch Processor	INFO	[USA_US101-5_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,376	Batch Processor	INFO	[USA_US101-6_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,378	Batch Processor	INFO	[USA_US101-8_4_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,379	Batch Processor	INFO	[USA_US101-9_1_T-1             ]	<EXCEPTION>	
+2022-11-29 13:09:11,381	Batch Processor	INFO	==============================      Exception occurred      ==============================
+	- ARG_Carcarana-13_1_T-1
+	- ARG_Carcarana-5_2_T-1
+	- ARG_Carcarana-2_3_T-1
+	- ARG_Carcarana-7_1_T-1
+	- ARG_Carcarana-8_4_T-1
+	- ARG_Carcarana-11_1_T-1
+	- BEL_Aarschot-11_1_T-1
+	- BEL_Aarschot-3_1_T-1
+	- BEL_Aarschot-1_2_T-1
+	- BEL_Aarschot-5_1_T-1
+	- BEL_Aarschot-6_1_T-1
+	- ARG_Carcarana-3_3_T-1
+	- BEL_Beringen-8_1_T-1
+	- BEL_Beringen-1_1_T-1
+	- BEL_Nivelles-16_2_T-1
+	- BEL_Nivelles-10_1_T-1
+	- BEL_Nivelles-18_2_T-1
+	- ARG_Carcarana-9_2_T-1
+	- BEL_Nivelles-1_1_T-1
+	- BEL_Nivelles-4_2_T-1
+	- BEL_Nivelles-3_1_T-1
+	- BEL_Nivelles-19_1_T-1
+	- BEL_Nivelles-9_2_T-1
+	- BEL_Nivelles-20_1_T-1
+	- BEL_Putte-10_2_T-1
+	- BEL_Putte-14_3_T-1
+	- BEL_Putte-11_2_T-1
+	- BEL_Putte-17_1_T-1
+	- BEL_Putte-3_1_T-1
+	- BEL_Putte-2_1_T-1
+	- BEL_Putte-6_1_T-1
+	- BEL_Wervik-1_4_T-1
+	- BEL_Putte-4_2_T-1
+	- BEL_Zaventem-3_1_T-1
+	- BEL_Wervik-2_2_T-1
+	- BEL_Zaventem-4_1_T-1
+	- BEL_Wervik-4_1_T-1
+	- BEL_Zaventem-5_3_T-1
+	- BEL_Zwevegem-3_1_T-1
+	- BEL_Zaventem-1_2_T-1
+	- BEL_Zwevegem-2_3_T-1
+	- BEL_Zwevegem-7_2_T-1
+	- BEL_Zwevegem-5_2_T-1
+	- BEL_Zwevegem-8_1_T-1
+	- BEL_Zwevegem-8_4_T-1
+	- DEU_Backnang-9_1_T-1
+	- DEU_Backnang-4_1_T-1
+	- DEU_BadEssen-4_1_T-1
+	- DEU_Backnang-5_1_T-1
+	- DEU_Backnang-6_1_T-1
+	- DEU_BadWaldsee-4_2_T-1
+	- DEU_BadWaldsee-4_5_T-1
+	- DEU_BadEssen-3_1_T-1
+	- DEU_Bilderstoeckchen-2_3_T-1
+	- DEU_Backnang-1_2_T-1
+	- DEU_BadWaldsee-1_1_T-1
+	- DEU_Bilderstoeckchen-4_1_T-1
+	- DEU_Flensburg-10_1_T-1
+	- DEU_Flensburg-15_1_T-1
+	- DEU_Flensburg-16_1_T-1
+	- DEU_Flensburg-11_1_T-1
+	- DEU_Flensburg-14_1_T-1
+	- DEU_Flensburg-18_1_T-1
+	- DEU_Flensburg-13_1_T-1
+	- DEU_Flensburg-12_1_T-1
+	- DEU_Flensburg-17_1_T-1
+	- DEU_Flensburg-21_1_T-1
+	- DEU_Flensburg-19_1_T-1
+	- DEU_Flensburg-22_1_T-1
+	- DEU_Flensburg-20_1_T-1
+	- DEU_Flensburg-26_1_T-1
+	- DEU_Flensburg-23_1_T-1
+	- DEU_Flensburg-27_1_T-1
+	- DEU_Flensburg-24_1_T-1
+	- DEU_Flensburg-25_1_T-1
+	- DEU_Flensburg-29_1_T-1
+	- DEU_Flensburg-30_1_T-1
+	- DEU_Flensburg-2_1_T-1
+	- DEU_Flensburg-31_1_T-1
+	- DEU_Flensburg-33_1_T-1
+	- DEU_Flensburg-35_1_T-1
+	- DEU_Flensburg-28_1_T-1
+	- DEU_Flensburg-32_1_T-1
+	- DEU_Flensburg-36_1_T-1
+	- DEU_Flensburg-34_1_T-1
+	- DEU_Flensburg-38_1_T-1
+	- DEU_Flensburg-39_1_T-1
+	- DEU_Flensburg-42_1_T-1
+	- DEU_Flensburg-41_1_T-1
+	- DEU_Flensburg-40_1_T-1
+	- DEU_Flensburg-37_1_T-1
+	- DEU_Flensburg-44_1_T-1
+	- DEU_Flensburg-48_1_T-1
+	- DEU_Flensburg-43_1_T-1
+	- DEU_Flensburg-45_1_T-1
+	- DEU_Flensburg-47_1_T-1
+	- DEU_Flensburg-49_1_T-1
+	- DEU_Flensburg-46_1_T-1
+	- DEU_Flensburg-52_1_T-1
+	- DEU_Flensburg-53_1_T-1
+	- DEU_Flensburg-55_1_T-1
+	- DEU_Flensburg-50_1_T-1
+	- DEU_Flensburg-51_1_T-1
+	- DEU_Flensburg-56_1_T-1
+	- DEU_Flensburg-54_1_T-1
+	- DEU_Flensburg-60_1_T-1
+	- DEU_Flensburg-57_1_T-1
+	- DEU_Flensburg-63_1_T-1
+	- DEU_Flensburg-58_1_T-1
+	- DEU_Flensburg-61_1_T-1
+	- DEU_Flensburg-59_1_T-1
+	- DEU_Flensburg-65_1_T-1
+	- DEU_Flensburg-67_1_T-1
+	- DEU_Flensburg-64_1_T-1
+	- DEU_Flensburg-62_1_T-1
+	- DEU_Flensburg-68_1_T-1
+	- DEU_Flensburg-66_1_T-1
+	- DEU_Flensburg-71_1_T-1
+	- DEU_Flensburg-69_1_T-1
+	- DEU_Flensburg-73_1_T-1
+	- DEU_Flensburg-70_1_T-1
+	- DEU_Flensburg-72_1_T-1
+	- DEU_Flensburg-74_1_T-1
+	- DEU_Flensburg-75_1_T-1
+	- DEU_Flensburg-76_1_T-1
+	- DEU_Flensburg-80_1_T-1
+	- DEU_Flensburg-79_1_T-1
+	- DEU_Flensburg-77_1_T-1
+	- DEU_Flensburg-81_1_T-1
+	- DEU_Flensburg-78_1_T-1
+	- DEU_Flensburg-82_1_T-1
+	- DEU_Flensburg-85_1_T-1
+	- DEU_Flensburg-83_1_T-1
+	- DEU_Flensburg-90_1_T-1
+	- DEU_Flensburg-89_1_T-1
+	- DEU_Flensburg-84_1_T-1
+	- DEU_Flensburg-87_1_T-1
+	- DEU_Flensburg-88_1_T-1
+	- DEU_Flensburg-92_1_T-1
+	- DEU_Flensburg-86_1_T-1
+	- DEU_Flensburg-91_1_T-1
+	- DEU_Flensburg-94_1_T-1
+	- DEU_Flensburg-97_1_T-1
+	- DEU_Flensburg-98_1_T-1
+	- DEU_Flensburg-95_1_T-1
+	- DEU_Flensburg-96_1_T-1
+	- DEU_Flensburg-93_1_T-1
+	- DEU_Guetersloh-12_1_T-1
+	- DEU_Guetersloh-11_3_T-1
+	- DEU_Guetersloh-10_4_T-1
+	- DEU_Guetersloh-10_5_T-1
+	- DEU_Guetersloh-14_2_T-1
+	- DEU_Flensburg-99_1_T-1
+	- DEU_Guetersloh-18_1_T-1
+	- DEU_Guetersloh-17_2_T-1
+	- DEU_Guetersloh-16_2_T-1
+	- DEU_Guetersloh-16_5_T-1
+	- DEU_Guetersloh-20_1_T-1
+	- DEU_Guetersloh-20_3_T-1
+	- DEU_Guetersloh-21_1_T-1
+	- DEU_Guetersloh-19_1_T-1
+	- DEU_Guetersloh-15_2_T-1
+	- DEU_Guetersloh-24_1_T-1
+	- DEU_Guetersloh-24_2_T-1
+	- DEU_Guetersloh-24_3_T-1
+	- DEU_Guetersloh-27_1_T-1
+	- DEU_Guetersloh-25_2_T-1
+	- DEU_Guetersloh-25_4_T-1
+	- DEU_Guetersloh-31_4_T-1
+	- DEU_Guetersloh-30_1_T-1
+	- DEU_Guetersloh-32_3_T-1
+	- DEU_Guetersloh-33_1_T-1
+	- DEU_Guetersloh-34_2_T-1
+	- DEU_Guetersloh-36_1_T-1
+	- DEU_Guetersloh-39_3_T-1
+	- DEU_Guetersloh-39_5_T-1
+	- DEU_Guetersloh-40_4_T-1
+	- DEU_Guetersloh-40_5_T-1
+	- DEU_Guetersloh-50_1_T-1
+	- DEU_Guetersloh-41_1_T-1
+	- DEU_Guetersloh-42_1_T-1
+	- DEU_Guetersloh-54_1_T-1
+	- DEU_Guetersloh-4_5_T-1
+	- DEU_Guetersloh-55_1_T-1
+	- DEU_Guetersloh-65_2_T-1
+	- DEU_Guetersloh-55_3_T-1
+	- DEU_Guetersloh-8_1_T-1
+	- DEU_Hennigsdorf-11_1_T-1
+	- DEU_Guetersloh-6_3_T-1
+	- DEU_Hennigsdorf-12_1_T-1
+	- DEU_Hennigsdorf-13_2_T-1
+	- DEU_Hennigsdorf-18_2_T-1
+	- DEU_Guetersloh-7_2_T-1
+	- DEU_Hennigsdorf-14_3_T-1
+	- DEU_Hennigsdorf-15_3_T-1
+	- DEU_Hennigsdorf-3_2_T-1
+	- DEU_Hennigsdorf-5_1_T-1
+	- DEU_Hennigsdorf-3_5_T-1
+	- DEU_Hennigsdorf-9_2_T-1
+	- DEU_Ibbenbueren-11_2_T-1
+	- DEU_Ibbenbueren-10_2_T-1
+	- DEU_Hennigsdorf-7_3_T-1
+	- DEU_Hennigsdorf-5_4_T-1
+	- DEU_Ibbenbueren-12_1_T-1
+	- DEU_Ibbenbueren-13_3_T-1
+	- DEU_Ibbenbueren-14_1_T-1
+	- DEU_Ibbenbueren-16_3_T-1
+	- DEU_Ibbenbueren-15_4_T-1
+	- DEU_Ibbenbueren-2_2_T-1
+	- DEU_Ibbenbueren-16_5_T-1
+	- DEU_Ibbenbueren-3_3_T-1
+	- DEU_Ibbenbueren-6_4_T-1
+	- DEU_Ibbenbueren-9_1_T-1
+	- DEU_Ibbenbueren-6_3_T-1
+	- DEU_Ibbenbueren-7_1_T-1
+	- DEU_Ibbenbueren-4_2_T-1
+	- DEU_Lohmar-11_1_T-1
+	- DEU_Lohmar-10_1_T-1
+	- DEU_Lohmar-13_1_T-1
+	- DEU_Lohmar-12_1_T-1
+	- DEU_Lohmar-14_1_T-1
+	- DEU_Lohmar-15_1_T-1
+	- DEU_Lohmar-16_1_T-1
+	- DEU_Lohmar-22_1_T-1
+	- DEU_Lohmar-20_1_T-1
+	- DEU_Lohmar-18_1_T-1
+	- DEU_Lohmar-19_1_T-1
+	- DEU_Lohmar-21_1_T-1
+	- DEU_Lohmar-17_1_T-1
+	- DEU_Lohmar-23_1_T-1
+	- DEU_Lohmar-27_1_T-1
+	- DEU_Lohmar-28_1_T-1
+	- DEU_Lohmar-24_1_T-1
+	- DEU_Lohmar-26_1_T-1
+	- DEU_Lohmar-25_1_T-1
+	- DEU_Lohmar-32_1_T-1
+	- DEU_Lohmar-29_1_T-1
+	- DEU_Lohmar-30_1_T-1
+	- DEU_Lohmar-34_1_T-1
+	- DEU_Lohmar-31_1_T-1
+	- DEU_Lohmar-33_1_T-1
+	- DEU_Lohmar-35_1_T-1
+	- DEU_Lohmar-38_1_T-1
+	- DEU_Lohmar-40_1_T-1
+	- DEU_Lohmar-37_1_T-1
+	- DEU_Lohmar-36_1_T-1
+	- DEU_Lohmar-39_1_T-1
+	- DEU_Lohmar-42_1_T-1
+	- DEU_Lohmar-41_1_T-1
+	- DEU_Lohmar-45_1_T-1
+	- DEU_Lohmar-43_1_T-1
+	- DEU_Lohmar-44_1_T-1
+	- DEU_Lohmar-47_1_T-1
+	- DEU_Lohmar-46_1_T-1
+	- DEU_Lohmar-49_1_T-1
+	- DEU_Lohmar-48_1_T-1
+	- DEU_Lohmar-54_1_T-1
+	- DEU_Lohmar-50_1_T-1
+	- DEU_Lohmar-53_1_T-1
+	- DEU_Lohmar-51_1_T-1
+	- DEU_Lohmar-55_1_T-1
+	- DEU_Lohmar-52_1_T-1
+	- DEU_Lohmar-57_1_T-1
+	- DEU_Lohmar-58_1_T-1
+	- DEU_Lohmar-61_1_T-1
+	- DEU_Lohmar-59_1_T-1
+	- DEU_Lohmar-60_1_T-1
+	- DEU_Lohmar-56_1_T-1
+	- DEU_Lohmar-63_1_T-1
+	- DEU_Lohmar-62_1_T-1
+	- DEU_Lohmar-66_1_T-1
+	- DEU_Lohmar-64_1_T-1
+	- DEU_Lohmar-65_1_T-1
+	- DEU_Lohmar-67_1_T-1
+	- DEU_Lohmar-69_1_T-1
+	- DEU_Lohmar-68_1_T-1
+	- DEU_Lohmar-70_1_T-1
+	- DEU_Lohmar-9_1_T-1
+	- DEU_Meckenheim-1_4_T-1
+	- DEU_Lohmar-8_1_T-1
+	- DEU_Meckenheim-3_1_T-1
+	- DEU_Meckenheim-5_1_T-1
+	- DEU_Moabit-1_2_T-1
+	- DEU_Luckenwalde-1_1_T-1
+	- DEU_Moabit-4_1_T-1
+	- DEU_Moabit-5_2_T-1
+	- DEU_Moabit-6_2_T-1
+	- DEU_Meckenheim-8_3_T-1
+	- DEU_Moelln-10_3_T-1
+	- DEU_Meckenheim-8_5_T-1
+	- DEU_Moelln-11_1_T-1
+	- DEU_Moelln-12_1_T-1
+	- DEU_Moelln-2_1_T-1
+	- DEU_Moelln-6_1_T-1
+	- DEU_Moelln-7_1_T-1
+	- DEU_Moelln-9_1_T-1
+	- DEU_Muehlhausen-14_3_T-1
+	- DEU_Muehlhausen-11_1_T-1
+	- DEU_Moelln-4_3_T-1
+	- DEU_Muehlhausen-1_2_T-1
+	- DEU_Muehlhausen-1_3_T-1
+	- DEU_Muehlhausen-6_1_T-1
+	- DEU_Muehlhausen-5_1_T-1
+	- DEU_Muehlhausen-2_1_T-1
+	- DEU_Muehlhausen-7_2_T-1
+	- DEU_Muehlhausen-4_1_T-1
+	- DEU_Reutlingen-1_1_T-1
+	- DEU_Reutlingen-2_1_T-1
+	- DEU_Reutlingen-3_1_T-1
+	- DEU_Reutlingen-4_1_T-1
+	- DEU_Rheinbach-1_4_T-1
+	- DEU_Reutlingen-5_1_T-1
+	- DEU_Reutlingen-6_1_T-1
+	- DEU_Speyer-2_1_T-1
+	- DEU_Speyer-2_4_T-1
+	- DEU_Speyer-5_2_T-1
+	- DEU_Rheinbach-5_3_T-1
+	- ESP_Almansa-1_1_T-1
+	- ESP_Berga-4_4_T-1
+	- ESP_Berga-10_1_T-1
+	- ESP_Berga-9_1_T-1
+	- ESP_Almansa-6_1_T-1
+	- ESP_Berga-6_1_T-1
+	- ESP_Cambre-1_1_T-1
+	- ESP_Cambre-2_1_T-1
+	- ESP_Cambre-3_1_T-1
+	- ESP_Ceuta-15_2_T-1
+	- ESP_Ceuta-1_2_T-1
+	- ESP_Ceuta-10_1_T-1
+	- ESP_Ceuta-11_1_T-1
+	- ESP_Ceuta-7_1_T-1
+	- ESP_Ceuta-5_1_T-1
+	- ESP_Almansa-2_1_T-1
+	- ESP_Ceuta-4_1_T-1
+	- ESP_Ceuta-3_2_T-1
+	- ESP_Inca-7_1_T-1
+	- ESP_Ceuta-2_1_T-1
+	- ESP_Inca-3_2_T-1
+	- ESP_Ceuta-8_1_T-1
+	- ESP_Monzon-3_1_T-1
+	- ESP_Monzon-2_1_T-1
+	- ESP_Monzon-5_1_T-1
+	- ESP_Monzon-7_2_T-1
+	- ESP_Monzon-7_3_T-1
+	- ESP_PriegodeCordoba-2_3_T-1
+	- ESP_Monzon-6_1_T-1
+	- ESP_PriegodeCordoba-3_1_T-1
+	- ESP_SantBoideLlobregat-14_1_T-1
+	- ESP_SantBoideLlobregat-18_2_T-1
+	- ESP_SantBoideLlobregat-14_4_T-1
+	- ESP_SantBoideLlobregat-22_3_T-1
+	- ESP_SantBoideLlobregat-19_1_T-1
+	- ESP_Monzon-9_1_T-1
+	- ESP_Requena-6_2_T-1
+	- ESP_PriegodeCordoba-6_1_T-1
+	- ESP_SantBoideLlobregat-24_1_T-1
+	- ESP_SantBoideLlobregat-23_2_T-1
+	- ESP_SantBoideLlobregat-3_1_T-1
+	- ESP_SantBoideLlobregat-4_1_T-1
+	- ESP_Toledo-11_1_T-1
+	- ESP_SantBoideLlobregat-8_1_T-1
+	- ESP_SantBoideLlobregat-8_5_T-1
+	- ESP_Toledo-11_5_T-1
+	- ESP_Toledo-10_1_T-1
+	- ESP_Toledo-23_1_T-1
+	- ESP_SantBoideLlobregat-6_2_T-1
+	- ESP_Toledo-10_2_T-1
+	- ESP_Toledo-5_1_T-1
+	- ESP_Toledo-22_1_T-1
+	- FRA_Anglet-1_2_T-1
+	- ESP_Toledo-9_1_T-1
+	- FRA_Miramas-1_1_T-1
+	- ESP_Toledo-6_2_T-1
+	- FRA_Anglet-2_1_T-1
+	- ESP_Toledo-8_1_T-1
+	- FRA_Miramas-3_1_T-1
+	- FRA_Anglet-3_2_T-1
+	- FRA_Miramas-2_1_T-1
+	- FRA_Miramas-5_1_T-1
+	- FRA_Miramas-9_1_T-1
+	- FRA_MoissyCramayel-2_1_T-1
+	- FRA_MoissyCramayel-1_1_T-1
+	- GRC_Perama-2_1_T-1
+	- FRA_MoissyCramayel-4_1_T-1
+	- GRC_Perama-3_2_T-1
+	- GRC_Perama-1_1_T-1
+	- FRA_Sete-1_1_T-1
+	- GRC_Perama-4_3_T-1
+	- GRC_Perama-7_1_T-1
+	- HRV_Pula-12_3_T-1
+	- HRV_Pula-13_2_T-1
+	- HRV_Pula-10_1_T-1
+	- HRV_Pula-15_1_T-1
+	- HRV_Pula-18_1_T-1
+	- HRV_Pula-19_2_T-1
+	- HRV_Pula-23_1_T-1
+	- HRV_Pula-24_1_T-1
+	- HRV_Pula-21_1_T-1
+	- HRV_Pula-25_1_T-1
+	- HRV_Pula-22_1_T-1
+	- HRV_Pula-27_2_T-1
+	- HRV_Pula-29_3_T-1
+	- HRV_Pula-31_1_T-1
+	- HRV_Pula-33_2_T-1
+	- HRV_Pula-5_2_T-1
+	- HRV_Pula-6_2_T-1
+	- HRV_Pula-5_3_T-1
+	- HRV_Pula-32_2_T-1
+	- HRV_Pula-9_2_T-1
+	- HRV_Pula-9_4_T-1
+	- HRV_Pula-8_3_T-1
+	- ITA_CarpiCentro-1_3_T-1
+	- ITA_CarpiCentro-5_1_T-1
+	- HRV_Pula-7_2_T-1
+	- ITA_CarpiCentro-8_3_T-1
+	- ITA_CarpiCentro-3_1_T-1
+	- ITA_CarpiCentro-6_2_T-1
+	- ITA_Empoli-10_1_T-1
+	- ITA_CarpiCentro-2_4_T-1
+	- ITA_Empoli-2_4_T-1
+	- ITA_Empoli-3_1_T-1
+	- ITA_Empoli-2_5_T-1
+	- ITA_Empoli-18_1_T-1
+	- ITA_Empoli-7_3_T-1
+	- ITA_CarpiCentro-7_1_T-1
+	- ITA_Empoli-8_2_T-1
+	- ITA_Foggia-11_1_T-1
+	- ITA_Foggia-12_1_T-1
+	- ITA_Empoli-4_2_T-1
+	- ITA_Foggia-19_1_T-1
+	- ITA_Foggia-3_1_T-1
+	- ITA_Foggia-1_1_T-1
+	- ITA_Foggia-4_2_T-1
+	- ITA_SanGiorgioaCremano-2_1_T-1
+	- ITA_Foggia-6_1_T-1
+	- ITA_Foggia-13_1_T-1
+	- ITA_SanGiorgioaCremano-3_1_T-1
+	- ITA_Segrate-1_2_T-1
+	- ITA_Foggia-5_1_T-1
+	- ITA_Segrate-2_3_T-1
+	- ITA_Siderno-10_1_T-1
+	- ITA_Siderno-3_2_T-1
+	- ITA_Siderno-2_4_T-1
+	- ITA_Siderno-4_3_T-1
+	- ITA_Scicli-2_1_T-1
+	- ITA_Siderno-4_4_T-1
+	- ITA_Siderno-5_4_T-1
+	- ITA_Foggia-7_2_T-1
+	- ITA_Siderno-8_4_T-1
+	- ITA_Siderno-8_5_T-1
+	- RUS_Bicycle-11_1_T-1
+	- RUS_Bicycle-10_1_T-1
+	- PRI_Barceloneta-4_3_T-1
+	- PRI_Barceloneta-3_1_T-1
+	- PRI_Barceloneta-2_1_T-1
+	- RUS_Bicycle-12_1_T-1
+	- RUS_Bicycle-13_1_T-1
+	- RUS_Bicycle-14_1_T-1
+	- RUS_Bicycle-1_1_T-1
+	- RUS_Bicycle-3_1_T-1
+	- RUS_Bicycle-2_1_T-1
+	- RUS_Bicycle-4_2_T-1
+	- PRI_Barceloneta-4_5_T-1
+	- RUS_Bicycle-6_1_T-1
+	- RUS_Bicycle-7_1_T-1
+	- RUS_Bicycle-9_1_T-1
+	- RUS_Bicycle-5_1_T-1
+	- RUS_Bicycle-8_1_T-1
+	- USA_Peach-1_1_T-1
+	- USA_Peach-3_1_T-1
+	- USA_Peach-2_1_T-1
+	- USA_US101-11_4_T-1
+	- USA_Lanker-1_2_T-1
+	- USA_US101-10_4_T-1
+	- USA_US101-12_1_T-1
+	- USA_US101-14_1_T-1
+	- USA_US101-13_4_T-1
+	- USA_US101-15_1_T-1
+	- USA_US101-16_2_T-1
+	- USA_US101-17_1_T-1
+	- USA_US101-18_2_T-1
+	- USA_US101-20_2_T-1
+	- USA_US101-21_2_T-1
+	- USA_US101-26_2_T-1
+	- USA_US101-25_2_T-1
+	- USA_US101-22_4_T-1
+	- USA_US101-23_2_T-1
+	- USA_US101-27_1_T-1
+	- USA_US101-24_2_T-1
+	- USA_US101-29_1_T-1
+	- USA_US101-28_1_T-1
+	- USA_US101-4_1_T-1
+	- USA_US101-5_1_T-1
+	- USA_US101-3_1_T-1
+	- USA_US101-3_2_S-1
+	- USA_US101-8_4_T-1
+	- USA_US101-6_1_T-1
+	- USA_US101-9_1_T-1
+2022-11-29 13:09:11,382	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2022-11-29 13:09:11,383	Batch Processor	INFO	Total number of scenarios:  	       500
+2022-11-29 13:09:11,384	Batch Processor	INFO	Solution found:               	         0
+2022-11-29 13:09:11,385	Batch Processor	INFO	Solution found but invalid:   	         0
+2022-11-29 13:09:11,385	Batch Processor	INFO	Solution not found:           	         0
+2022-11-29 13:09:11,387	Batch Processor	INFO	Exception occurred:           	       498
+2022-11-29 13:09:11,390	Batch Processor	INFO	Time out:                     	         0
